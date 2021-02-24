@@ -1,0 +1,9 @@
+.navbar-brand{
+  font-weight: bold;
+}
+
+.nav-link{
+  font-family: calibri;
+  text-transform: uppercase;
+  color: white;
+}
